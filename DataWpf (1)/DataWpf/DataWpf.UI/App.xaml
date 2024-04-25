@@ -1,0 +1,21 @@
+﻿<Application x:Class="DataWpf.UI.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:DataWpf.UI"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <Style TargetType="{x:Type TextBox}">
+            <Setter Property="Validation.ErrorTemplate">
+                <Setter.Value>
+                    <ControlTemplate>
+                        <DockPanel LastChildFill="True">
+                            <TextBlock DockPanel.Dock="Right" Foreground="Red"
+FontSize="14" FontWeight="Bold"  Margin="5,0,0,0" ToolTip="{Binding ElementName=adornerPlaceholder, Path=AdornedElement.(Validation.Errors)[0].ErrorContent}">*</TextBlock>
+                            <AdornedElementPlaceholder Name="adornerPlaceholder"></AdornedElementPlaceholder>
+                        </DockPanel>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Application.Resources>
+</Application>

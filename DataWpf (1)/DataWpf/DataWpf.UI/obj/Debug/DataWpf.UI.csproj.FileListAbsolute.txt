@@ -1,0 +1,61 @@
+D:\WinDev\DataWpf\DataWpf.UI\bin\Debug\DataWpf.UI.exe.config
+D:\WinDev\DataWpf\DataWpf.UI\bin\Debug\DataWpf.UI.exe
+D:\WinDev\DataWpf\DataWpf.UI\bin\Debug\DataWpf.UI.pdb
+D:\WinDev\DataWpf\DataWpf.UI\bin\Debug\DataWpf.Model.dll
+D:\WinDev\DataWpf\DataWpf.UI\bin\Debug\DataWpf.ViewModel.dll
+D:\WinDev\DataWpf\DataWpf.UI\bin\Debug\DataWpf.Model.pdb
+D:\WinDev\DataWpf\DataWpf.UI\bin\Debug\DataWpf.ViewModel.pdb
+D:\WinDev\DataWpf\DataWpf.UI\obj\Debug\DataWpf.UI.csprojResolveAssemblyReference.cache
+D:\WinDev\DataWpf\DataWpf.UI\obj\Debug\MainWindow.g.cs
+D:\WinDev\DataWpf\DataWpf.UI\obj\Debug\App.g.cs
+D:\WinDev\DataWpf\DataWpf.UI\obj\Debug\DataWpf.UI_MarkupCompile.cache
+D:\WinDev\DataWpf\DataWpf.UI\obj\Debug\DataWpf.UI_MarkupCompile.lref
+D:\WinDev\DataWpf\DataWpf.UI\obj\Debug\MainWindow.baml
+D:\WinDev\DataWpf\DataWpf.UI\obj\Debug\DataWpf.UI.g.resources
+D:\WinDev\DataWpf\DataWpf.UI\obj\Debug\DataWpf.UI.Properties.Resources.resources
+D:\WinDev\DataWpf\DataWpf.UI\obj\Debug\DataWpf.UI.csproj.GenerateResource.Cache
+D:\WinDev\DataWpf\DataWpf.UI\obj\Debug\DataWpf.UI.exe
+D:\WinDev\DataWpf\DataWpf.UI\obj\Debug\DataWpf.UI.pdb
+D:\WinDev\DataWpf\DataWpf.UI\obj\Debug\NewEditWindow.g.cs
+D:\WinDev\DataWpf\DataWpf.UI\obj\Debug\NewEditWindow.baml
+D:\WinDev\DataWpf\DataWpf.UI\obj\Debug\App.baml
+C:\Users\drele\Desktop\DataWpf\DataWpf.UI\bin\Debug\DataWpf.UI.exe.config
+C:\Users\drele\Desktop\DataWpf\DataWpf.UI\obj\Debug\DataWpf.UI.exe
+C:\Users\drele\Desktop\DataWpf\DataWpf.UI\obj\Debug\DataWpf.UI.pdb
+C:\Users\drele\Desktop\DataWpf\DataWpf.UI\bin\Debug\DataWpf.UI.exe.manifest
+C:\Users\drele\Desktop\DataWpf\DataWpf.UI\bin\Debug\DataWpf.UI.application
+C:\Users\drele\Desktop\DataWpf\DataWpf.UI\bin\Debug\DataWpf.UI.exe
+C:\Users\drele\Desktop\DataWpf\DataWpf.UI\bin\Debug\DataWpf.UI.pdb
+C:\Users\drele\Desktop\DataWpf\DataWpf.UI\bin\Debug\DataWpf.Model.dll
+C:\Users\drele\Desktop\DataWpf\DataWpf.UI\bin\Debug\DataWpf.ViewModel.dll
+C:\Users\drele\Desktop\DataWpf\DataWpf.UI\bin\Debug\DataWpf.Model.pdb
+C:\Users\drele\Desktop\DataWpf\DataWpf.UI\bin\Debug\DataWpf.ViewModel.pdb
+C:\Users\drele\Desktop\DataWpf\DataWpf.UI\obj\Debug\MainWindow.g.cs
+C:\Users\drele\Desktop\DataWpf\DataWpf.UI\obj\Debug\NewEditWindow.g.cs
+C:\Users\drele\Desktop\DataWpf\DataWpf.UI\obj\Debug\App.g.cs
+C:\Users\drele\Desktop\DataWpf\DataWpf.UI\obj\Debug\DataWpf.UI_MarkupCompile.cache
+C:\Users\drele\Desktop\DataWpf\DataWpf.UI\obj\Debug\DataWpf.UI_MarkupCompile.lref
+C:\Users\drele\Desktop\DataWpf\DataWpf.UI\obj\Debug\App.baml
+C:\Users\drele\Desktop\DataWpf\DataWpf.UI\obj\Debug\MainWindow.baml
+C:\Users\drele\Desktop\DataWpf\DataWpf.UI\obj\Debug\NewEditWindow.baml
+C:\Users\drele\Desktop\DataWpf\DataWpf.UI\obj\Debug\DataWpf.UI.g.resources
+C:\Users\drele\Desktop\DataWpf\DataWpf.UI\obj\Debug\DataWpf.UI.Properties.Resources.resources
+C:\Users\drele\Desktop\DataWpf\DataWpf.UI\obj\Debug\DataWpf.UI.csproj.GenerateResource.Cache
+C:\Users\drele\Desktop\DataWpf\DataWpf.UI\obj\Debug\DataWpf.UI.exe.manifest
+C:\Users\drele\Desktop\DataWpf\DataWpf.UI\obj\Debug\DataWpf.UI.application
+C:\Users\drele\Desktop\DataWpf\DataWpf.UI\obj\Debug\DataWpf.UI.csprojResolveAssemblyReference.cache
+C:\Users\Greattech\Desktop\DataWpf (1)\DataWpf\DataWpf.UI\obj\Debug\DataWpf.UI.csproj.AssemblyReference.cache
+C:\Users\Greattech\Desktop\DataWpf (1)\DataWpf\DataWpf.UI\obj\Debug\MainWindow.g.cs
+C:\Users\Greattech\Desktop\DataWpf (1)\DataWpf\DataWpf.UI\obj\Debug\NewEditWindow.g.cs
+C:\Users\Greattech\Desktop\DataWpf (1)\DataWpf\DataWpf.UI\obj\Debug\App.g.cs
+C:\Users\Greattech\Desktop\DataWpf (1)\DataWpf\DataWpf.UI\obj\Debug\DataWpf.UI_MarkupCompile.cache
+C:\Users\Greattech\Desktop\DataWpf (1)\DataWpf\DataWpf.UI\obj\Debug\DataWpf.UI_MarkupCompile.lref
+C:\Users\Greattech\Desktop\DataWpf (1)\DataWpf\DataWpf.UI\obj\Debug\App.baml
+C:\Users\Greattech\Desktop\DataWpf (1)\DataWpf\DataWpf.UI\obj\Debug\MainWindow.baml
+C:\Users\Greattech\Desktop\DataWpf (1)\DataWpf\DataWpf.UI\obj\Debug\NewEditWindow.baml
+C:\Users\Greattech\Desktop\DataWpf (1)\DataWpf\DataWpf.UI\obj\Debug\DataWpf.UI.g.resources
+C:\Users\Greattech\Desktop\DataWpf (1)\DataWpf\DataWpf.UI\obj\Debug\DataWpf.UI.Properties.Resources.resources
+C:\Users\Greattech\Desktop\DataWpf (1)\DataWpf\DataWpf.UI\obj\Debug\DataWpf.UI.csproj.GenerateResource.cache
+C:\Users\Greattech\Desktop\DataWpf (1)\DataWpf\DataWpf.UI\obj\Debug\DataWpf.UI.csproj.CoreCompileInputs.cache
+C:\Users\Greattech\Desktop\DataWpf (1)\DataWpf\DataWpf.UI\obj\Debug\DataWpf.UI.exe
+C:\Users\Greattech\Desktop\DataWpf (1)\DataWpf\DataWpf.UI\obj\Debug\DataWpf.UI.pdb

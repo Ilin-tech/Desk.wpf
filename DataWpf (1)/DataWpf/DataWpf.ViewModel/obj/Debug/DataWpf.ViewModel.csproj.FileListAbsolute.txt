@@ -1,0 +1,23 @@
+D:\WinDev\DataWpf\DataWpf.ViewModel\bin\Debug\DataWpf.ViewModel.dll
+D:\WinDev\DataWpf\DataWpf.ViewModel\bin\Debug\DataWpf.ViewModel.pdb
+D:\WinDev\DataWpf\DataWpf.ViewModel\bin\Debug\DataWpf.Model.dll
+D:\WinDev\DataWpf\DataWpf.ViewModel\bin\Debug\DataWpf.Model.pdb
+D:\WinDev\DataWpf\DataWpf.ViewModel\obj\Debug\DataWpf.ViewModel.csprojResolveAssemblyReference.cache
+D:\WinDev\DataWpf\DataWpf.ViewModel\obj\Debug\DataWpf.ViewModel.dll
+D:\WinDev\DataWpf\DataWpf.ViewModel\obj\Debug\DataWpf.ViewModel.pdb
+C:\Users\drele\Desktop\DataWpf\DataWpf.ViewModel\bin\Debug\DataWpf.ViewModel.dll
+C:\Users\drele\Desktop\DataWpf\DataWpf.ViewModel\bin\Debug\DataWpf.ViewModel.pdb
+C:\Users\drele\Desktop\DataWpf\DataWpf.ViewModel\bin\Debug\DataWpf.Model.dll
+C:\Users\drele\Desktop\DataWpf\DataWpf.ViewModel\bin\Debug\DataWpf.Model.pdb
+C:\Users\drele\Desktop\DataWpf\DataWpf.ViewModel\obj\Debug\DataWpf.ViewModel.csprojResolveAssemblyReference.cache
+C:\Users\drele\Desktop\DataWpf\DataWpf.ViewModel\obj\Debug\DataWpf.ViewModel.dll
+C:\Users\drele\Desktop\DataWpf\DataWpf.ViewModel\obj\Debug\DataWpf.ViewModel.pdb
+C:\Users\Greattech\Desktop\DataWpf (1)\DataWpf\DataWpf.ViewModel\bin\Debug\DataWpf.ViewModel.dll
+C:\Users\Greattech\Desktop\DataWpf (1)\DataWpf\DataWpf.ViewModel\bin\Debug\DataWpf.ViewModel.pdb
+C:\Users\Greattech\Desktop\DataWpf (1)\DataWpf\DataWpf.ViewModel\bin\Debug\DataWpf.Model.dll
+C:\Users\Greattech\Desktop\DataWpf (1)\DataWpf\DataWpf.ViewModel\bin\Debug\DataWpf.Model.pdb
+C:\Users\Greattech\Desktop\DataWpf (1)\DataWpf\DataWpf.ViewModel\obj\Debug\DataWpf.ViewModel.csproj.AssemblyReference.cache
+C:\Users\Greattech\Desktop\DataWpf (1)\DataWpf\DataWpf.ViewModel\obj\Debug\DataWpf.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\Greattech\Desktop\DataWpf (1)\DataWpf\DataWpf.ViewModel\obj\Debug\DataWpf.ViewModel.csproj.CopyComplete
+C:\Users\Greattech\Desktop\DataWpf (1)\DataWpf\DataWpf.ViewModel\obj\Debug\DataWpf.ViewModel.dll
+C:\Users\Greattech\Desktop\DataWpf (1)\DataWpf\DataWpf.ViewModel\obj\Debug\DataWpf.ViewModel.pdb

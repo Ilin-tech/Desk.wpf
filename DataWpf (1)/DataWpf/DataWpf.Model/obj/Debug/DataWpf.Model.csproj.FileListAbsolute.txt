@@ -1,0 +1,14 @@
+D:\WinDev\DataWpf\DataWpf.Model\bin\Debug\DataWpf.Model.dll
+D:\WinDev\DataWpf\DataWpf.Model\bin\Debug\DataWpf.Model.pdb
+D:\WinDev\DataWpf\DataWpf.Model\obj\Debug\DataWpf.Model.dll
+D:\WinDev\DataWpf\DataWpf.Model\obj\Debug\DataWpf.Model.pdb
+C:\Users\drele\Desktop\DataWpf\DataWpf.Model\bin\Debug\DataWpf.Model.dll
+C:\Users\drele\Desktop\DataWpf\DataWpf.Model\bin\Debug\DataWpf.Model.pdb
+C:\Users\drele\Desktop\DataWpf\DataWpf.Model\obj\Debug\DataWpf.Model.dll
+C:\Users\drele\Desktop\DataWpf\DataWpf.Model\obj\Debug\DataWpf.Model.pdb
+C:\Users\Greattech\Desktop\DataWpf (1)\DataWpf\DataWpf.Model\bin\Debug\DataWpf.Model.dll
+C:\Users\Greattech\Desktop\DataWpf (1)\DataWpf\DataWpf.Model\bin\Debug\DataWpf.Model.pdb
+C:\Users\Greattech\Desktop\DataWpf (1)\DataWpf\DataWpf.Model\obj\Debug\DataWpf.Model.csproj.CoreCompileInputs.cache
+C:\Users\Greattech\Desktop\DataWpf (1)\DataWpf\DataWpf.Model\obj\Debug\DataWpf.Model.dll
+C:\Users\Greattech\Desktop\DataWpf (1)\DataWpf\DataWpf.Model\obj\Debug\DataWpf.Model.pdb
+C:\Users\Greattech\Desktop\DataWpf (1)\DataWpf\DataWpf.Model\obj\Debug\DataWpf.Model.csproj.AssemblyReference.cache

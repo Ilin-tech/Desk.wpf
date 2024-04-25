@@ -1,0 +1,24 @@
+﻿<Window x:Class="DataWpf.UI.NewEditWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:model="clr-namespace:DataWpf.Model;assembly=DataWpf.Model"
+        xmlns:local="clr-namespace:DataWpf.UI"
+        mc:Ignorable="d"
+        Title="{Binding WindowTitle}" Height="300" Width="300" Loaded="Window_Loaded">
+    <Window.Resources>
+        <model:DateConverter x:Key="DateConverter"></model:DateConverter>
+    </Window.Resources>
+    <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+        <Label x:Name="label" Content="First name"/>
+        <TextBox Text="{Binding CurrentPerson.FirstName, ValidatesOnNotifyDataErrors=True}" x:Name="firstNameTxtBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap"  VerticalAlignment="Top" Width="165" Padding="0" Margin="0,0,0,10">
+        </TextBox>
+        <Label x:Name="label1" Content="Last name"/>
+        <TextBox Text="{Binding CurrentPerson.LastName}" x:Name="lastNameTxtBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="165" Margin="0,0,0,10"/>
+        <Label x:Name="label2" Content="Date of birth"/>
+        <TextBox Text="{Binding CurrentPerson.DateOfBirth, Converter={StaticResource DateConverter}}" HorizontalAlignment="Left" VerticalAlignment="Top" Height="23" Width="165" Margin="0,0,0,10"/>
+        <Button Command="{Binding SaveCommand}" x:Name="button" Content="Save" HorizontalAlignment="Right"  VerticalAlignment="Top" Width="75"/>
+    </StackPanel>
+
+</Window>
